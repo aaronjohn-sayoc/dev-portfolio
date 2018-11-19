@@ -1,0 +1,94 @@
+/*css reset*/
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+h1,h2,h3,h4,h5,h6, .navbar-brand {
+	font-family: 'Montserrat', sans-serif;	
+}
+
+p,a,span {
+	font-family: 'Raleway', sans-serif;
+}
+
+.bg-primary {
+	background-color: #505050 !important;
+}
+
+.navbar-brand {
+	font-size: 25px;
+	margin-left: 25px;
+}
+
+.navbar-nav {
+	margin-right: 25px;
+}
+
+.fa-facebook-f, .fa-github-alt, .fa-gitlab, .fa-envelope {
+	font-size: 2rem;
+}
+
+#hdr-image {
+	height: 100vh;
+	position: relative;
+	background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(255, 255, 255, 0.5)), 
+	url(../images/chang-duong-480253-unsplash.jpg); /*<a href="https://www.freepik.com/free-photo/elevated-view-of-laptop-mouse-notebook-and-felt-tip-pen-on-grey-background_2905870.htm">Designed by Freepik</a>*/
+	background-size: cover;
+	background-color: #89D9E2;
+	background-attachment: fixed;
+}
+
+#hdr-title, #hdr-slogan {
+	color: white;
+}
+
+#hdr-image > .container {
+	margin-top: 13%;
+}
+
+#aboutme {
+	height: 60vh;
+}
+
+#flatboy {
+	width: 128px;
+	height: 128px;
+	border-radius: 50%;
+}
+
+.card {
+	border-style: none;
+}
+
+#features {
+	width: 128px;
+	height: 128px;
+}
+
+#desc {
+	font-size: 1rem;
+}
+
+.footer {
+	background-color: #505050 !important;
+}
+
+#footercpy {
+	color: #fff;
+}
+
+#footertext {
+	color: #fff;
+	font-size: 1.25rem;
+}
+
+.fa-html5, .fa-css3-alt {
+	font-size: 4rem;
+	color: #A8A8A8;
+}
+
+.fa-html5:hover, .fa-css3-alt:hover {
+	color: rgba(255, 255, 255, 0.7)
+}
