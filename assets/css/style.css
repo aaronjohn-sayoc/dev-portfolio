@@ -109,3 +109,21 @@ p,a,span {
 
 
 /*media queries*/
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  #hdr-image {
+    background-attachment: scroll;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+  #hdr-image {
+    background-attachment: scroll;
+  }
+}
+
+@media screen and (max-width: 576px) {
+  #hdr-image {
+    background-attachment: scroll;
+  }
+}
