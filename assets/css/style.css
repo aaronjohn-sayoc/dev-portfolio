@@ -18,7 +18,7 @@ p,a,span {
 }
 
 .bg-primary {
-	background-color: #fff !important;
+	background-color: #505050 !important;
 }
 
 .navbar-brand {
@@ -40,7 +40,7 @@ p,a,span {
 	background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(255, 255, 255, 0.5)), 
 	url(../images/chang-duong-480253-unsplash.jpg); /*<a href="https://www.freepik.com/free-photo/elevated-view-of-laptop-mouse-notebook-and-felt-tip-pen-on-grey-background_2905870.htm">Designed by Freepik</a>*/
 	background-size: cover;
-	background-color: #89D9E2;
+	background-color: #fff;
 	background-attachment: fixed;
 }
 
@@ -50,7 +50,7 @@ p,a,span {
 	background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), 
 	url(../images/dsremastered.png); /*<a href="https://www.freepik.com/free-photo/elevated-view-of-laptop-mouse-notebook-and-felt-tip-pen-on-grey-background_2905870.htm">Designed by Freepik</a>*/
 	background-size: cover;
-	background-color: #89D9E2;
+	background-color: #fff;
 	/*background-attachment: fixed;*/
 }
 
