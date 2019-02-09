@@ -64,6 +64,16 @@ p,a,span {
 	/*background-attachment: fixed;*/
 }
 
+#stn-image3 {
+	height: 50vh;
+	position: relative;
+	background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), 
+	url(../images/daything.png); /*<a href="https://www.freepik.com/free-photo/elevated-view-of-laptop-mouse-notebook-and-felt-tip-pen-on-grey-background_2905870.htm">Designed by Freepik</a>*/
+	background-size: cover;
+	background-color: #fff;
+	/*background-attachment: fixed;*/
+}
+
 #stn-image > .container {
 	margin-top: 5%;
 }
