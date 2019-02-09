@@ -51,6 +51,7 @@ p,a,span {
 	url(../images/dsremastered.png); /*<a href="https://www.freepik.com/free-photo/elevated-view-of-laptop-mouse-notebook-and-felt-tip-pen-on-grey-background_2905870.htm">Designed by Freepik</a>*/
 	background-size: cover;
 	background-color: #fff;
+	background-position: center; 
 	/*background-attachment: fixed;*/
 }
 
@@ -61,6 +62,7 @@ p,a,span {
 	url(../images/crownbakery.png); /*<a href="https://www.freepik.com/free-photo/elevated-view-of-laptop-mouse-notebook-and-felt-tip-pen-on-grey-background_2905870.htm">Designed by Freepik</a>*/
 	background-size: cover;
 	background-color: #fff;
+	background-position: center; 
 	/*background-attachment: fixed;*/
 }
 
@@ -71,6 +73,7 @@ p,a,span {
 	url(../images/daything.png); /*<a href="https://www.freepik.com/free-photo/elevated-view-of-laptop-mouse-notebook-and-felt-tip-pen-on-grey-background_2905870.htm">Designed by Freepik</a>*/
 	background-size: cover;
 	background-color: #fff;
+	background-position: center; 
 	/*background-attachment: fixed;*/
 }
 
