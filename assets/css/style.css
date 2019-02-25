@@ -38,7 +38,7 @@ p,a,span {
 	height: 100vh;
 	position: relative;
 	background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(255, 255, 255, 0.5)), 
-	url(../images/chang-duong-480253-unsplash.jpg); /*<a href="https://www.freepik.com/free-photo/elevated-view-of-laptop-mouse-notebook-and-felt-tip-pen-on-grey-background_2905870.htm">Designed by Freepik</a>*/
+	url(../images/chang-duong-480253-unsplash.jpg); 
 	background-size: cover;
 	background-color: #fff;
 	background-attachment: fixed;
@@ -48,33 +48,39 @@ p,a,span {
 	height: 50vh;
 	position: relative;
 	background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), 
-	url(../images/dsremastered.png); /*<a href="https://www.freepik.com/free-photo/elevated-view-of-laptop-mouse-notebook-and-felt-tip-pen-on-grey-background_2905870.htm">Designed by Freepik</a>*/
+	url(../images/dsremastered.png);
 	background-size: cover;
 	background-color: #fff;
 	background-position: center; 
-	/*background-attachment: fixed;*/
 }
 
 #stn-image2 {
 	height: 50vh;
 	position: relative;
 	background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), 
-	url(../images/crownbakery.png); /*<a href="https://www.freepik.com/free-photo/elevated-view-of-laptop-mouse-notebook-and-felt-tip-pen-on-grey-background_2905870.htm">Designed by Freepik</a>*/
+	url(../images/crownbakery.png); 
 	background-size: cover;
 	background-color: #fff;
 	background-position: center; 
-	/*background-attachment: fixed;*/
 }
 
 #stn-image3 {
 	height: 50vh;
 	position: relative;
 	background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), 
-	url(../images/daything.png); /*<a href="https://www.freepik.com/free-photo/elevated-view-of-laptop-mouse-notebook-and-felt-tip-pen-on-grey-background_2905870.htm">Designed by Freepik</a>*/
+	url(../images/daything.png);
+	background-color: #fff;
+	background-position: center; 
+}
+
+#stn-image4 {
+	height: 50vh;
+	position: relative;
+	background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), 
+	url(../images/youdemy.png); 
 	background-size: cover;
 	background-color: #fff;
 	background-position: center; 
-	/*background-attachment: fixed;*/
 }
 
 #stn-image > .container {
