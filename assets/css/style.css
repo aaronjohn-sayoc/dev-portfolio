@@ -84,6 +84,16 @@ p,a,span {
 	background-position: center; 
 }
 
+#stn-image5 {
+	height: 50vh;
+	position: relative;
+	background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), 
+	url(../images/seojet.png); 
+	background-size: cover;
+	background-color: #fff;
+	background-position: top center; 
+}
+
 #stn-image > .container {
 	margin-top: 5%;
 }
